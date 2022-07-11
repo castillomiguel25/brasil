@@ -265,33 +265,6 @@ header section img {
   cursor: pointer;
   color: #fff;
 }
-#portfolio articles {
-  position: relative;
-  height: 300px;
-  border-radius: 15px;
-  margin: 20px;
-  flex-basis: 500px;
-  flex-grow: 1;
-  box-shadow: 5px 5px 5px rgba(24, 24, 24, 0.158);
-  background: url(../image/telH.png);
- 
-  filter: brightness(80%);
-  cursor: pointer;
-  color: #fff;
-}
-#portfolio articler {
-  position: relative;
-  height: 300px;
-  border-radius: 15px;
-  margin: 20px;
-  flex-basis: 500px;
-  flex-grow: 1;
-  box-shadow: 5px 5px 5px rgba(24, 24, 24, 0.158);
-  background: url(../image/camion.png);
-  filter: brightness(80%);
-  cursor: pointer;
-  color: #fff;
-}
 #portfolio article:hover {
   filter: brightness(60%);
 }
